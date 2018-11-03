@@ -1,8 +1,5 @@
 # Lockable
 
-![Issues](https://img.shields.io/github/issues/fabiospampinato/lockable.svg)
-[![NPM version](https://img.shields.io/npm/v/@fabiospampinato/lockable.svg)](https://www.npmjs.com/package/@fabiospampinato/lockable)
-
 A base class that implements lock/unlock-related functionalities.
 
 ## Install
