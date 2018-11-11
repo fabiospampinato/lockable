@@ -35,4 +35,4 @@ class Lockable {
 
 /* EXPORT */
 
-export = Object.assign ( Lockable, { default: Lockable } );
+export default Lockable;
