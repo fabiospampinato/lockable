@@ -1,6 +1,6 @@
 {
   "name": "@fabiospampinato/lockable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A base class that implements lock/unlock-related functionalities.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
